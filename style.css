@@ -1,0 +1,41 @@
+.img_responsive{
+
+    height: 10px;
+    width: 10px;
+}
+
+.img{
+    height: 50px;
+    width: 50px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
+
+  img{
+        border: 5px solid white;
+  }
+
+  body{
+   background-color: lavender;
+  }
+
+  .container{
+      border-radius: 20px;
+      align-content: center;
+      background-color: plum;
+  }
+
+  .container1{
+      color: white;
+    align-content: center;
+    background-color: rgb(241, 81, 108);
+    box-shadow: 10px 10px 50px rgb(235, 0, 0);
+  }
